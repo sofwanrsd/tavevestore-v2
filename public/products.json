@@ -1,0 +1,304 @@
+[
+  {
+    "id": "canva",
+    "name": "Canva Pro | Canva Edu",
+    "img": "https://ap-southeast-2-seek-apac.graphassets.com/AEzBCRO50TYyqbV6XzRDQz/8y6DzQR1SIiS2QgkZ0eL",
+    "desc": "Dengan Canva Pro / Canva Edu kamu bisa mengakses fitur-fitur berbayar.",
+    "features": [
+      "Semua template & elemen premium",
+      "Background remover",
+      "Magic Resize",
+      "Export kualitas tinggi (PNG transparan, PDF cetak, MP4, GIF)",
+      "Dan lain-lain"
+    ],
+    "snk": [
+      "Bergaransi sesuai varian",
+      "Via invite untuk member Canva Edu/Pro",
+      "Membutuhkan email pembeli",
+      "Dimohon mengirimkan email untuk pencatatan"
+    ],
+    "variants": [
+      {
+        "id": "member1b",
+        "label": "Member 1 Bulan (Garansi 20 Hari)",
+        "price": 4000,
+        "code": "canva1b"
+      },
+      {
+        "id": "owner1b",
+        "label": "Owner 1 Bulan (Garansi 20 Hari)",
+        "price": 10000,
+        "code": "canvaowner"
+      },
+      {
+        "id": "edu6b",
+        "label": "Edu 6 Bulan (Garansi 3 Bulan)",
+        "price": 10000,
+        "code": "canva6b"
+      },
+      {
+        "id": "edu12b",
+        "label": "Edu 12 Bulan (Garansi 6 Bulan)",
+        "price": 14000,
+        "code": "canva1t"
+      },
+      {
+        "id": "edulifetime",
+        "label": "Edu Lifetime (Garansi 1 Tahun)",
+        "price": 25000,
+        "code": "canvalifetime"
+      }
+    ],
+    "tags": ["Designer", "Pro", "Education"]
+  },
+  {
+    "id": "netflix",
+    "name": "Netflix Premium",
+    "img": "https://assets.telkomsel.com/public/2025-02/Cara-dan-Biaya-Langganan-Netflix-Cari-Tahu-di-Sini.jpg?VersionId=MA4o09.U0ph2iYS4m3lmOKdEwEDDeZ8c",
+    "desc": "Nikmati ribuan film, serial, anime, dan dokumenter terbaik hanya dengan Netflix Premium.",
+    "features": [
+      "🚫 Tanpa iklan",
+      "📲 Bisa download offline",
+      "🌍 Akses di HP, Laptop, Tablet, dan Smart TV",
+      "Dan lain-lain"
+    ],
+    "snk": [
+      "🚨 1 profil = 1 device",
+      "⛔ Dilarang mengubah email dan password",
+      "⛔ Dilarang otak-atik pengaturan",
+      "⛔ Dilarang menggunakan VPN",
+      "⛔ Dilarang memasukkan profil orang lain",
+      "⛔ Dilarang pindah-pindah device",
+      "⛔ Dilarang edit profil dan PIN",
+      "🛠 Garansi fixing 1x24 jam",
+      "🕒 25–30 hari = 1 bulan",
+      "🔐 Kemungkinan ada pergantian password (akan diinformasikan)",
+      "🚨 Setelah login wajib konfirmasi device dan lokasi (contoh: Infinix – Bandung)"
+    ],
+    "variants": [
+      {
+        "id": "netflix1p1u",
+        "label": "Netflix 1 Bulan",
+        "price": 30000,
+        "code": "netflix"
+      }
+    ],
+    "tags": ["Best Seller", "Streaming"]
+  },
+  {
+    "id": "youtube",
+    "name": "YouTube Premium",
+    "img": "https://cdn.medcom.id/dynamic/content/2023/04/12/1557608/FZXyYmGAhL.jpg?w=700",
+    "desc": "Nikmati pengalaman nonton & dengar musik tanpa batas dengan YouTube Premium.",
+    "features": [
+      "🚫 Tanpa iklan – nonton & dengar musik lebih nyaman",
+      "📲 Download offline – simpan video & musik, tonton kapan saja",
+      "🎵 YouTube Music Premium – jutaan lagu tanpa batas",
+      "🔊 Background Play – tetap jalan meski layar mati",
+      "🌍 Bisa dipakai di HP, laptop, tablet, & Smart TV"
+    ],
+    "snk": [
+      "✅ Full garansi",
+      "🕒 20–30 hari dihitung 1 bulan",
+      "👥 (Head) Bisa invite 5 orang jadi premium",
+      "🔐 Akun dari seller wajib ganti password",
+      "⚠️ Lupa password bukan garansi seller"
+    ],
+    "variants": [
+      {
+        "id": "ytfamilyinvite1b",
+        "label": "Family Plan Invite 1 Bulan",
+        "price": 5000,
+        "code": "manual"
+      },
+      {
+        "id": "ytfamilyhead1b",
+        "label": "Family Plan Head 1 Bulan",
+        "price": 8000,
+        "code": "ythead"
+      },
+      {
+        "id": "ytindividual1b",
+        "label": "Individual Plan 1 Bulan",
+        "price": 10000,
+        "code": "yt1b"
+      }
+    ],
+    "tags": ["Streaming", "Music", "Hiburan"]
+  },
+  {
+    "id": "capcut",
+    "name": "Capcut Pro",
+    "img": "https://cdnpro.eraspace.com/media/mageplaza/blog/post/t/i/tips_menggunakan_capcut-primary.png",
+    "desc": "Buat dan edit video jadi lebih profesional dengan CapCut Pro!",
+    "tags": ["Best Seller", "Pro", "Editor"],
+    "features": [
+      "🚫 Tanpa watermark – hasil video lebih bersih & profesional",
+      "🎞️ Efek & filter premium – akses ribuan efek, font, dan stiker",
+      "🎶 Audio & musik eksklusif – bebas pilih sound trend terbaru",
+      "⏱️ Export kualitas tinggi – hingga Full HD/4K",
+      "📲 Bisa digunakan di HP, tablet, dan PC"
+    ],
+    "snk": [
+      "✅login max 3-4 Device",
+      "✅ 𝗟𝗢𝗚𝗜𝗡 𝗩𝗜𝗔 Email bukan google",
+      "✅ garansi backfree only 5/20 day",
+      "❎ Dilarang keras login logout",
+      "❎ Tidak Bisa Perpanjang Masa Aktif"
+    ],
+    "variants": [
+      {
+        "id": "capcut7hari",
+        "label": "7 Hari",
+        "price": 6000,
+        "code": "capcut7d"
+      },
+      {
+        "id": "capcut1bulan",
+        "label": "1 Bulan",
+        "price": 12000,
+        "code": "capcut1b"
+      }
+    ]
+  },
+  {
+    "id": "primevideo",
+    "name": "PRIME VIDEO",
+    "img": "https://image.idntimes.com/post/20221128/primevideo-seo-logo-3b1d608e178c8dba6bc4cea50b05db6d.png",
+    "desc": "Nikmati ribuan film, serial TV, dan konten eksklusif dari Amazon Prime Video.",
+    "tags": ["Streaming", "Hiburan"],
+    "features": [
+      "📺 Akses ribuan film & serial global",
+      "🎥 Konten eksklusif Prime Originals",
+      "🚫 Tanpa iklan – nonton jadi lebih nyaman",
+      "📲 Download offline – simpan & tonton kapan saja",
+      "🎞️ Kualitas video hingga Full HD / 4K Ultra HD",
+      "🌍 Bisa digunakan di HP, Laptop, Tablet, dan Smart TV"
+    ],
+    "snk": ["Akun Private", "Garansi 20hari", "Akun disediakan seller"],
+    "variants": [
+      {
+        "id": "videoprime1bulan",
+        "label": "1 Bulan",
+        "price": 15000,
+        "code": "primevideo"
+      }
+    ]
+  },
+  {
+    "id": "vidio",
+    "name": "VIDIO",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png",
+    "desc": "Nikmati hiburan terlengkap dengan Vidio Premier Platinum – paket premium all-in-one dari Vidio.\n",
+    "tags": ["Streaming", "Hiburan"],
+    "features": [
+      "⚽ Olahraga paling lengkap: Liga 1, UCL, EPL, Serie A, La Liga, NBA, F1, dan lainnya",
+      "🎬 Akses ribuan film & serial internasional",
+      "🎥 Vidio Originals eksklusif",
+      "🚫 Tanpa iklan – tontonan lebih nyaman",
+      "📲 Download offline – simpan & tonton kapan saja",
+      "🎞️ Kualitas video Full HD di berbagai perangkat"
+    ],
+    "snk": [
+      "➡️ Login dengan email yang sudah diberikan",
+      "➡️ Dilarang mengganti metode pembayaran / plan",
+      "➡️ TV (GARANSI 1 BULAN ) dan Mobile (Garansi 20 Hari)",
+      "➡️ Jika terdapat kendala silahkan hubungi admin",
+      "➡️Garansi BackFree"
+    ],
+    "variants": [
+      {
+        "id": "vidiotvonly",
+        "label": "Vidio TV Only 1 Tahun (Garansi 1 Bulan)",
+        "price": 15000,
+        "code": "vidiotv"
+      },
+      {
+        "id": "vidiomobileonly",
+        "label": "Vidio Mobile Only 1 Bulan (Garansi 20 Hari)",
+        "price": 25000,
+        "code": "vidiomobile"
+      }
+    ]
+  },
+  {
+    "id": "viu",
+    "name": "VIU Premium",
+    "img": "https://assets.telkomsel.com/public/2025-01/Cara-Termudah-Langganan-Viu-Hanya-Beberapa-Kali-Klik.jpg?VersionId=ad410H.OkX24LobObo2I.JqmL.TrtfS_",
+    "desc": "Nikmati drama Korea, Asia, dan film eksklusif hanya dengan VIU Premium.\n",
+    "tags": ["Streaming", "Hiburan"],
+    "features": [
+      "🎬 Drama Korea & Asia terbaru update cepat setelah tayang di negara asal",
+      "🚫 Tanpa iklan – nonton lebih nyaman",
+      "📲 Download offline – simpan & tonton kapan saja",
+      "🌍 Bisa diakses di HP, Tablet, Laptop, dan Smart TV",
+      "🎞️ Kualitas video HD"
+    ],
+    "snk": [
+      "Akun Privat",
+      "Bergaransi Sesuai Variant",
+      "Garansi Berlaku Jika tidak ubah password"
+    ],
+    "variants": [
+      {
+        "id": "viu3bulan",
+        "label": "VIU 3 Bulan (Garansi 1 Bulan)",
+        "price": 3000,
+        "code": "viu3b"
+      },
+      {
+        "id": "viuseumurhidup",
+        "label": "VIU LIFETIME (Garansi 6 Bulan)",
+        "price": 10000,
+        "code": "viulifetime"
+      },
+      {
+        "id": "viu1tahun",
+        "label": "VIU 1 Tahun (Garansi 6 Bulan)",
+        "price": 8000,
+        "code": "viu1t"
+      },
+      {
+        "id": "viu6b",
+        "label": "VIU 6 Bulan (Garansi 3 Bulan)",
+        "price": 5000,
+        "code": "viu6b"
+      }
+    ]
+  },
+  {
+    "id": "zoom",
+    "name": "ZOOM PRO",
+    "img": "https://cdn.mos.cms.futurecdn.net/25UeWUrVGmuXUjnG6Yt7rj.jpg",
+    "desc": "Paket ini cocok untuk bisnis, sekolah, maupun komunitas yang butuh durasi meeting lebih panjang, kapasitas peserta lebih banyak, dan fitur profesional lainnya.",
+    "tags": ["Education", "Pro"],
+    "features": [
+      "⏱️ Durasi meeting hingga 30 jam (tanpa batas 40 menit)",
+      "👥 Kapasitas hingga 100 peserta",
+      "🎥 Cloud recording – rekam & simpan meeting di cloud",
+      "🔒 Keamanan premium – enkripsi & kontrol host lebih lengkap",
+      "📲 Bisa diakses dari HP, Laptop, Tablet, dan Browser",
+      "🛠️ Fitur tambahan: polling, breakout rooms, dan laporan meeting"
+    ],
+    "snk": [
+      "Akun dari seller",
+      "Private Account",
+      "Dapat akses email",
+      "Garansi Backfree 5/10 hari"
+    ],
+    "variants": [
+      {
+        "id": "zoom7hari",
+        "label": "ZOOM PRO 7 HARI",
+        "price": 7000,
+        "code": "zoom7d"
+      },
+      {
+        "id": "zoom14hari",
+        "label": "ZOOM PRO 14 HARI",
+        "price": 10000,
+        "code": "zoom14d"
+      }
+    ]
+  }
+]
