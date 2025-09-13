@@ -21,7 +21,7 @@
       {
         "id": "member1b",
         "label": "Member 1 Bulan (Garansi 20 Hari)",
-        "price": 2000,
+        "price": 4000,
         "code": "canva1b"
       },
       {
@@ -298,6 +298,70 @@
         "label": "ZOOM PRO 14 HARI",
         "price": 10000,
         "code": "zoom14d"
+      }
+    ]
+  },
+  {
+    "id": "ampro",
+    "name": "Alight Motion",
+    "img": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2022/08/11/alight-motion-projpg-20220811043646.jpg",
+    "desc": "Edit video jadi lebih profesional tanpa watermark!\nDengan Alight Motion Pro 1 Tahun, kamu bisa menikmati semua fitur premium untuk membuat konten aesthetic, cinematic, maupun motion graphic dengan mudah langsung dari HP.",
+    "tags": ["Editor", "Designer", "Pro"],
+    "features": [
+      "✨ Fitur Utama:",
+      "🔓 Full Unlock Premium – semua fitur terbuka tanpa batas",
+      "🚫 Tanpa Watermark – hasil editing lebih bersih dan profesional",
+      "🎨 Banyak Preset & Efek – ribuan efek visual, transisi, dan animasi",
+      "🖌️ Kustomisasi Lengkap – dukungan layer tak terbatas, vector & bitmap editing",
+      "📂 Ekspor Berkualitas Tinggi – hingga 4K, bisa pilih format sesuai kebutuhan"
+    ],
+    "snk": [
+      "✅ Bergaransi 3 Bulan sejak tanggal pembelian",
+      "✅ Akun disediakan langsung oleh seller",
+      "✅ Pembeli mendapatkan akses email akun",
+      "✅ Garansi Backfree berlaku (jika akun bermasalah, akan diganti sesuai ketentuan garansi)"
+    ],
+    "variants": [
+      {
+        "id": "Alightmotion",
+        "label": "1 TAHUN - GARANSI 3 BULAN",
+        "price": 10000,
+        "code": "AM"
+      }
+    ]
+  },
+  {
+    "id": "spotifypremium",
+    "name": "SPOTIFY PREMIUM",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF4i2h_y9d6x6SR8ozro3iSxCMrF48ibbBIw&s",
+    "desc": "Dengarkan musik tanpa batas dengan Spotify Premium 1 Bulan. Nikmati semua fitur premium untuk streaming lebih nyaman dan bebas iklan.",
+    "tags": ["Music", "Pro"],
+    "features": [
+      "🚫 Tanpa Iklan – musik full bebas gangguan",
+      "⏯️ Skip Lagu Tanpa Batas – putar sesuai selera",
+      "📥 Download Lagu – dengarkan offline tanpa kuota",
+      "🔊 Kualitas Audio Premium – hingga 320kbps",
+      "🌍 Bisa login di HP, PC, atau tablet"
+    ],
+    "snk": [
+      "✅ Akun sudah disediakan seller (region mix)",
+      "✅ Plan Student Only",
+      "✅ Bisa login menggunakan kode",
+      "✅ Garansi 20 Hari (khusus produk yang bergaransi)",
+      "✅ Garansi Backfree berlaku (akun diganti sesuai ketentuan)"
+    ],
+    "variants": [
+      {
+        "id": "spotifynogaransi",
+        "label": "1 BULAN - NO GARANSI",
+        "price": 8000,
+        "code": "spotifynogar"
+      },
+      {
+        "id": "spotifygaransi",
+        "label": "1 BULAN - GARANSI",
+        "price": 15000,
+        "code": "spotify"
       }
     ]
   }
