@@ -63,7 +63,7 @@
       "Dan lain-lain"
     ],
     "snk": [
-      "🚨 1 profil = 1 device",
+      "🚨 1 profil = 1 device (KHUSUS 1P1U)",
       "⛔ Dilarang mengubah email dan password",
       "⛔ Dilarang otak-atik pengaturan",
       "⛔ Dilarang menggunakan VPN",
@@ -73,14 +73,21 @@
       "🛠 Garansi fixing 1x24 jam",
       "🕒 25–30 hari = 1 bulan",
       "🔐 Kemungkinan ada pergantian password (akan diinformasikan)",
-      "🚨 Setelah login wajib konfirmasi device dan lokasi (contoh: Infinix – Bandung)"
+      "🚨 Setelah login wajib konfirmasi device dan lokasi (contoh: Infinix – Bandung)",
+      "🚨PRIVAT SNK TANYAIN ADMIN/OWNER🚨"
     ],
     "variants": [
       {
         "id": "netflix1p1u",
-        "label": "Netflix 1 Bulan",
+        "label": "Netflix 1P1U 1 Bulan (LOGIN 1 DEVICE)",
         "price": 30000,
         "code": "netflix"
+      },
+      {
+        "id": "netpriv",
+        "label": "Netflix Privat 1 Bulan ( 5 PROFIL 1 AKUN )",
+        "price": 125000,
+        "code": "netpriv"
       }
     ],
     "tags": ["Best Seller", "Streaming"]
@@ -217,6 +224,12 @@
         "label": "Vidio Mobile Only 1 Bulan (Garansi 20 Hari)",
         "price": 25000,
         "code": "vidiomobile"
+      },
+      {
+        "id": "vidioalldevice",
+        "label": "ALL DEVICE PLATINUM 1 Bulan (Garansi 20 Hari) 🔥 BEST SELLER 🔥",
+        "price": 38000,
+        "code": "vidioalldev"
       }
     ]
   },
