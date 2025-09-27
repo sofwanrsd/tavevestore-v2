@@ -82,13 +82,13 @@
         "label": "Netflix 1P1U 3 Hari (LOGIN 1 DEVICE)",
         "price": 5000,
         "code": "netflix"
-      }
-            {
+      },
+      {
         "id": "netflix1p1u",
         "label": "Netflix 1P1U 7 Hari (LOGIN 1 DEVICE)",
         "price": 10000,
         "code": "netflix"
-      }
+      },
       {
         "id": "netflix1p1u",
         "label": "Netflix 1P1U 1 Bulan (LOGIN 1 DEVICE)",
