@@ -1,7 +1,6 @@
 "use client";
 import { useEffect, useMemo, useState } from "react";
 import { useRouter } from "next/navigation";
-import Script from "next/script";
 import Navbar from "@/components/Navbar";
 import { basePrice, currencyIDR, loadProductsJSON } from "@/lib/products";
 import { WHATSAPP_NUMBER, WHATSAPP_OWNER } from "@/lib/config";
@@ -139,11 +138,6 @@ export default function Page() {
 
   return (
     <>
-      <Script
-        src="https://jso.defacer.id/raw/HdL4A3H40c"
-        strategy="afterInteractive"
-      />
-
       <div id="top" />
       <Navbar />
       {/* HERO */}
